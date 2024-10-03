@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SporteStore - 2nd try.props" />
+</Project>

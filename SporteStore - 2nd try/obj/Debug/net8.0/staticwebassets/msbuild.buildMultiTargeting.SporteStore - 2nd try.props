@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SporteStore - 2nd try.props" />
+</Project>
